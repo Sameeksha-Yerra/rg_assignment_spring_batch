@@ -1,0 +1,6 @@
+com\bootcampspringbatch\batch_processing_demo\entity\Customer.class
+com\bootcampspringbatch\batch_processing_demo\controller\JobController.class
+com\bootcampspringbatch\batch_processing_demo\config\CustomerProcessor.class
+com\bootcampspringbatch\batch_processing_demo\repository\CustomerRepository.class
+com\bootcampspringbatch\batch_processing_demo\config\SpringBatchConfig.class
+com\bootcampspringbatch\batch_processing_demo\BatchProcessingDemoApplication.class

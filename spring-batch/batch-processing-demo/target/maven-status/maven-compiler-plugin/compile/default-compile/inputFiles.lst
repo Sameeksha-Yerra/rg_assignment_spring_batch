@@ -1,0 +1,6 @@
+D:\Bootcamp\spring-batch\batch-processing-demo\src\main\java\com\bootcampspringbatch\batch_processing_demo\BatchProcessingDemoApplication.java
+D:\Bootcamp\spring-batch\batch-processing-demo\src\main\java\com\bootcampspringbatch\batch_processing_demo\config\CustomerProcessor.java
+D:\Bootcamp\spring-batch\batch-processing-demo\src\main\java\com\bootcampspringbatch\batch_processing_demo\config\SpringBatchConfig.java
+D:\Bootcamp\spring-batch\batch-processing-demo\src\main\java\com\bootcampspringbatch\batch_processing_demo\controller\JobController.java
+D:\Bootcamp\spring-batch\batch-processing-demo\src\main\java\com\bootcampspringbatch\batch_processing_demo\entity\Customer.java
+D:\Bootcamp\spring-batch\batch-processing-demo\src\main\java\com\bootcampspringbatch\batch_processing_demo\repository\CustomerRepository.java
